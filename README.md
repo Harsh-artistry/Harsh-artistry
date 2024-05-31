@@ -47,10 +47,10 @@ const Harsh Maheshwari = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy meeting new people, so feel free to say hello—I'd be delighted to connect!!</b> 😊</em>
 
 ---
-<!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C773%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1538-blue)
@@ -71,61 +71,14 @@ const Harsh Maheshwari = {
  > 
 **I'm an Early 🐤** 
 
-```text
-🌞 Morning                758 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-🌆 Daytime                1768 commits        ██████████░░░░░░░░░░░░░░░   40.62 % 
-🌃 Evening                1284 commits        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
-🌙 Night                  543 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   542 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Tuesday                  603 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Wednesday                709 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Thursday                 579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Friday                   456 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Saturday                 558 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Sunday                   906 commits         █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-```
 
 
 📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-TypeScript               7 hrs 25 mins       ████████████████░░░░░░░░░   63.60 % 
-JavaScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-JSON                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Dart                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   0.66 % 
-
-🔥 Editors: 
-WebStorm                 10 hrs 43 mins      ███████████████████████░░   91.88 % 
-Android Studio           56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-
-💻 Operating System: 
-Mac                      11 hrs 40 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               32 repos            ███████████░░░░░░░░░░░░░░   45.71 % 
-Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Python                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-```
 
 
 
 
- Last Updated on 31/05/2024 00:24:47 UTC
-<!--END_SECTION:waka-->
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
