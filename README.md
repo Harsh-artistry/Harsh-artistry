@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Harsh Maheshwari! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻👋, I'm Harsh Maheshwari! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Engineering Student at <a href="https://aktu.ac.in/">AKTU University
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -48,37 +48,30 @@ const Harsh Maheshwari = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy meeting new people, so feel free to say hello—I'd be delighted to connect!!</b> 😊</em>
+📊 **Total Views On Github** 
+<img align="right" alt="" width="400" src="">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-artistry&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-artistry" /> </p>
 
----
+- 🧠Currently, I'm actively learning on **Aptitude & sharpening solving skills** and **Revising all topics that are covered in my btech**
 
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C773%20hrs%2015%20mins-blue)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/harsh-maheshwari-768794264/](https://www.linkedin.com/in/harsh-maheshwari-768794264/)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1538-blue)
+- 📧 Email me **harshmaheshwarih767hm6392371@gmail.com**
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harsh maheshwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh maheshwari" height="30" width="40" /></a>
+<a href="https://instagram.com/maheihawmari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maheihawmari" height="30" width="40" /></a>
+</p>
 
-**🐱 My GitHub Data** 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-> 📦 185.8 kB Used in GitHub's Storage 
- > 
-> 🏆 20 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 23 Private Repositories 
- > 
-**I'm an Early 🐤** 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsh-artistry&show_icons=true&locale=en&layout=compact" alt="harsh-artistry" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-artistry&show_icons=true&locale=en" alt="harsh-artistry" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-artistry&" alt="harsh-artistry" /></p>
 
-📊 **This Week I Spent My Time On** 
+**NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.**
 
-
-
-
-
-
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
