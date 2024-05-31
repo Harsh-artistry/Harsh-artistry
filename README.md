@@ -13,7 +13,7 @@
 
 ### 📫 Like to connect with me?
 
-if you'd like to connect with me and talk about anything you are passionate about click below 👇 - Please ensure that the agenda is detailed.
+If you'd like to connect with me and talk about anything you are passionate about click below 👇 - Please ensure that the agenda is detailed.
 👇
 
 <a href="https://www.linkedin.com/in/harsh-maheshwari-768794264" target="_blank"><img height ="35" width="50" alt="Connect_link" src="https://icon2.cleanpng.com/20180412/rxq/kisspng-ipma-email-telephone-message-email-icon-5acf36453ee1e1.3103384815235292852576.jpg"></a>
@@ -25,7 +25,7 @@ Harsh Maheshwari
 ```
 **👆 This Link can be found at [HarshMa75781967](https://twitter.com/HarshMa75781967)**
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A brief introduction about myself...  
+### <img src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif" width="50"> A brief introduction about myself...  
 
 ```javascript
 const Harsh Maheshwari = {
@@ -48,7 +48,7 @@ const Harsh Maheshwari = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I enjoy meeting new people, so feel free to say hello—I'd be delighted to connect!!</b> 😊</em>
+<img src="https://media.tenor.com/njWIUH52v4kAAAAi/go.gif" width="60"> <em><b>I enjoy meeting new people, so feel free to say hello—I'd be delighted to connect!!</b> 😊</em>
 📊 **Total Views On Github** 
 <img align="right" alt="" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-artistry&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-artistry" /> </p>
