@@ -12,16 +12,17 @@
 
 ### 📫 Like to connect with me?
 
-if you'd like to connect with me and talk about anything you are passionate about - Please ensure that the agenda is detailed.
+if you'd like to connect with me and talk about anything you are passionate about click below 👇 - Please ensure that the agenda is detailed.
+👇
 
-<a href="https://www.linkedin.com/in/harsh-maheshwari-768794264" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<a href="https://www.linkedin.com/in/harsh-maheshwari-768794264" target="_blank"><img height ="35" width="50" alt="Connect_link" src="https://icon2.cleanpng.com/20180412/rxq/kisspng-ipma-email-telephone-message-email-icon-5acf36453ee1e1.3103384815235292852576.jpg"></a>
 
-👇 Hit in your console or terminal to connect with me.
+👇 Hit in your computer to connect with me.
 
 ```bash
-npx anmol
+Harsh Maheshwari
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
+**👆 This Link can be found at [HarshMa75781967](https://twitter.com/HarshMa75781967)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
