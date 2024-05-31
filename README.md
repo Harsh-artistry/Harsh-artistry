@@ -77,10 +77,11 @@ const Harsh Maheshwari = {
 
 
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Harsh-artistry/Harsh-artistry/output/snake.svg" alt="Snake animation" />
 
-###
+
+
+
+
+
