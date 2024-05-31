@@ -49,6 +49,7 @@ const Harsh Maheshwari = {
 ```
 
 <img src="https://media.tenor.com/njWIUH52v4kAAAAi/go.gif" width="60"> <em><b>I enjoy meeting new people, so feel free to say hello—I'd be delighted to connect!!</b> 😊</em>
+
 📊 **Total Views On Github** 
 <img align="right" alt="" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-artistry&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-artistry" /> </p>
