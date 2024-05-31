@@ -55,7 +55,7 @@ const Harsh Maheshwari = {
 
 - 🧠Currently, I'm actively learning on **Aptitude & sharpening solving skills** and **Revising all topics that are covered in my btech**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/harsh-maheshwari-768794264/](https://www.linkedin.com/in/harsh-maheshwari-768794264/)
+- 👨‍💻 All of my projects are available at [https://github.com/Harsh-artistry](https://github.com/Harsh-artistry)
 
 - 📧 Email me **harshmaheshwarih767hm6392371@gmail.com**
 
