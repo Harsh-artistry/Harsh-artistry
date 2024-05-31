@@ -73,7 +73,7 @@ const Harsh Maheshwari = {
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-artistry&" alt="harsh-artistry" /></p>
 
-**NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.**
+**NOTE: The list of top languages does not necessarily reflect my full mastery in them or expertise. It simply indicates the languages used  most frequently across my GitHub repositories.**
 
 
 
