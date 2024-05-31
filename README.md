@@ -8,7 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/HarshMa75781967?label=Follow)](https://twitter.com/intent/follow?screen_name=HarshMa75781967)
 ![GitHub followers](https://img.shields.io/github/followers/Harsh-artistry?label=Follow&style=social)
 [![Future website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=/)]()![](https://)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+
 
 ### 📫 Like to meet me?
 
