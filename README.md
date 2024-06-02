@@ -16,7 +16,7 @@
 If you'd like to connect with me and talk about anything you are passionate about click below 👇 - Please ensure that the agenda is detailed.
 👇
 
-<a href="https://www.linkedin.com/in/harsh-maheshwari-768794264" target="_blank"><img height ="35" width="50" alt="Connect_link" src="https://icon2.cleanpng.com/20180412/rxq/kisspng-ipma-email-telephone-message-email-icon-5acf36453ee1e1.3103384815235292852576.jpg"></a>
+<a href="https://www.linkedin.com/in/harsh-maheshwari-768794264" target="_blank"><img height ="35" width="50" alt="Connect_link" src="https://media.tenor.com/vZysmz74u_gAAAAi/puppytalesphotos-puppytales.gif"></a>
 
 👇 Hit in your computer to connect with me.
 
