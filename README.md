@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&color=%230096FF&center=true&vCenter=true&width=700&height=100&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%28Namaste%29%F0%9F%99%8F%F0%9F%8F%BB%F0%9F%91%8B%2C+I%27m+Harsh+Maheshwari%21" alt="Typing SVG">
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻👋, I'm Harsh Maheshwari! <img src="https://media.tenor.com/k_FD58xnsicAAAAi/work-internet.gif" width="50"></h2>
 <img align='right' src="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="300">
 <p><em>Engineering Student at <a href="https://aktu.ac.in/">AKTU University
