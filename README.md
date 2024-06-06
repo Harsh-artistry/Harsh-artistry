@@ -23,7 +23,7 @@ Harsh Maheshwari
 ```
 **👆 This Link can be found at [HarshMa75781967](https://twitter.com/HarshMa75781967)**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harsh-artistry" alt="Harsh-artistry" /></a> </p>
+<p align="left"> <a href="https://github.com/Harsh-artistry/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harsh-artistry" alt="Harsh-artistry" /></a> </p>
 
 ### <img src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif" width="50"> A brief introduction about myself...  
 
