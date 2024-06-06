@@ -9,8 +9,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/Harsh-artistry?label=Follow&style=social)
 [![Future website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white)](https://radiant-sfogliatella-0abb2d.netlify.app/)
 
-
-
 ### 📫 Like to connect with me?
 
 If you'd like to connect with me and talk about anything you are passionate about click below 👇 - Please ensure that the agenda is detailed.
@@ -24,6 +22,8 @@ If you'd like to connect with me and talk about anything you are passionate abou
 Harsh Maheshwari
 ```
 **👆 This Link can be found at [HarshMa75781967](https://twitter.com/HarshMa75781967)**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harsh-artistry" alt="Harsh-artistry" /></a> </p>
 
 ### <img src="https://media.tenor.com/DloYoakaD_UAAAAi/backhand-index-pointing-right-joypixels.gif" width="50"> A brief introduction about myself...  
 
@@ -74,6 +74,8 @@ const Harsh Maheshwari = {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh-artistry&show_icons=true&locale=en" alt="harsh-artistry" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-artistry&" alt="harsh-artistry" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harsh-artistry&theme=onedark)](https://github.com/Harsh-artistry/github-profile-trophy)
 
 **NOTE: The list of top languages does not necessarily reflect my full mastery in them or expertise. It simply indicates the languages used  most frequently across my GitHub repositories.**
 
